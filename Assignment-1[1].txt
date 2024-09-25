@@ -1,0 +1,30 @@
+1) What is software?
+
+--> Software is a set of instructions, data or programs used to operate computers and execute specific tasks.
+
+2) What is software engineering? 
+
+--> Software Engineering is the process of designing, developing, testing, and maintaining software. Software engineering includes a variety of techniques, tools, and methodologies,including requirements analysis, design, testing, and maintenance.
+   
+3)Explain types of software.
+
+--> The two main categories of software are application software and system software. 
+
+i)system s/w hardware (webcam drivers) -->System software is designed to run a computer's hardware and provides a platform for applications to run on top of.
+
+ii)programming s/w -->Compiler: A compiler translates code from a high-level programming language into machine code before the program runs. 
+		     Interpreter: An interpreter translates code written in a high-level programming language into machine code line-by-line as                     the code runs.
+
+iii)web applications -->A web application is software that runs in your web browser which runs over internet.
+
+4)What is SDLC? Explain each phase of SDLC.
+
+--> SDLC is Software Development Life Cycle.
+    There are majorly six phases.
+    i)Requirment (static/dynamic)
+   ii)Analysis
+  iii)Designing
+   iv)Coding/implement
+    v)Testing
+   vi)Maintainance
+
